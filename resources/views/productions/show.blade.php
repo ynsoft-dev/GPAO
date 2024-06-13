@@ -79,7 +79,7 @@
                             <x-adminlte-datatable id="table1" :heads="$heads" striped hoverable with-buttons> 
                                 @foreach ($arrets as $arret)
                                     <tr>
-                                        <td>{{ $arret->duration }} Minutes </td>
+                                        <td>{{ $arret->duration }} Minute(s) </td>
                                         <td>{{ $arret->masqué ? 'Oui' : 'Non' }}</td>
                                         <td>{{ $arret->famille }}</td>
                                         <td>{{ $arret->sfamille }}</td>

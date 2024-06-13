@@ -72,7 +72,7 @@
                             <td>{{ $production->date }}</td>
                             <td>{{ $production->quantité_p }}</td>
                             <td>{{ $production->unité }}</td>
-                            <td>{{ $production->tt}} heure</td>
+                            <td>{{ $production->tt}} Heure(s)</td>
                             <td>{{ $production->trs}}%</td>
 
                            
