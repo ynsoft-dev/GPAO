@@ -9,7 +9,7 @@
             <div class="col-md-6">
                 <div class="form-group">
                     <label for="name">Nom</label>
-                    <input wire:model="name" type="text" class="form-control" id="name">
+                    <input wire:model="name" type="text" class="form-control" id="name"placeholder="Ligne">
                 </div>
             </div>
 

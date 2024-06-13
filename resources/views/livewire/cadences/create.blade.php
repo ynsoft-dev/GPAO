@@ -47,13 +47,13 @@
             <div class="col-md-6">
                 <div class="form-group">
                     <label for="cadence">Cadence</label>
-                    <input wire:model="cadence" type="text" class="form-control" id="cadence">
+                    <input wire:model="cadence" type="text" class="form-control" id="cadence"placeholder="Cadence">
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="form-group">
                     <label for="unité">Unité</label>
-                    <input wire:model="unité" type="text" class="form-control" id="unité">
+                    <input wire:model="unité" type="text" class="form-control" id="unité"placeholder="Unité">
                 </div>
             </div>
            

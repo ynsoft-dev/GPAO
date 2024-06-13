@@ -20,7 +20,7 @@
                         <div class="form-group row">
                             <div class="col-md-6">
                                 <label for="name">Article</label>
-                                <input type="text" class="form-control" id="name" name="name">
+                                <input type="text" class="form-control" id="name" name="name"placeholder="Nom d'article">
                             </div>
                             <div class="col-md-6">
                                 <label>Type d'article</label>

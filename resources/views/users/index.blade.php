@@ -51,7 +51,6 @@
                 <div class="card-body">
                     @php
                         $heads = [
-                            'ID',
                             'Nom',
                             'Adresse email',
                             'Équipe',
@@ -62,7 +61,6 @@
                     <x-adminlte-datatable id="table1" :heads="$heads" striped hoverable with-buttons>
                         @foreach($users as $user)
                             <tr>
-                                <td>{{ $user->id }}</td>
                                 <td>{{ $user->name }}</td>
                                 <td>{{ $user->email }}</td>
                                 <td>{{ $user->equipe }}</td>

@@ -17,7 +17,7 @@
             <div class="col-md-4">
                 <div class="form-group">
                     <label for="quart">Quart</label>
-                    <input wire:model="quart" type="text" class="form-control" id="quart">
+                    <input wire:model="quart" type="text" class="form-control" id="quart"placeholder="Quart">
                 </div>
             </div>
 
@@ -25,7 +25,7 @@
             <div class="col-md-4">
                 <div class="form-group">
                     <label for="équipe">Équipe</label>
-                    <input wire:model="équipe" type="text" class="form-control" id="équipe">
+                    <input wire:model="équipe" type="text" class="form-control" id="équipe"placeholder="Équipe">
                 </div>
             </div>
 

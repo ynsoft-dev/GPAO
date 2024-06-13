@@ -9,22 +9,22 @@
             <div class="col-md-6">
                 <div class="form-group">
                     <label for="famille">Famille</label>
-                    <input wire:model="famille" type="text" class="form-control" id="famille">
+                    <input wire:model="famille" type="text" class="form-control" id="famille"placeholder="Famille d'arrêt">
                 </div>
                 <div class="form-group">
                     <label for="sfamille">Sous famille</label>
-                    <input wire:model="sfamille" type="text" class="form-control" id="sfamille">
+                    <input wire:model="sfamille" type="text" class="form-control" id="sfamille"placeholder="Sous famille d'arrêt">
                 </div>
             </div>
 
             <div class="col-md-6">
                 <div class="form-group">
                     <label for="class">Classe</label>
-                    <input wire:model="class" type="text" class="form-control" id="class">
+                    <input wire:model="class" type="text" class="form-control" id="class"placeholder="Classe">
                 </div>
                 <div class="form-group">
                     <label for="impact">Impact</label>
-                    <input wire:model="impact" type="text" class="form-control" id="impact">
+                    <input wire:model="impact" type="text" class="form-control" id="impact"placeholder="Impact">
                 </div>
             </div>
         </div>

@@ -28,7 +28,7 @@
                         <div class="col-xs-7 col-sm-7 col-md-7">
                             <div class="form-group">
                                 <p>Nom :</p>
-                                <input type="text" name="name" class="form-control">
+                                <input type="text" name="name" class="form-control"placeholder="Nom">
                             </div>
                         </div>
                     </div>
