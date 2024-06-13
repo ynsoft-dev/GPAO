@@ -41,7 +41,6 @@ class CatalogsTableSeeder extends Seeder
                 'created_at' => '2024-04-27 20:16:57',
                 'updated_at' => '2024-04-27 20:16:57',
             ),
-
             2 => 
             array (
                 'id' => 3,
@@ -74,6 +73,17 @@ class CatalogsTableSeeder extends Seeder
                 'impact' => '20%',
                 'created_at' => '2024-04-27 20:16:57',
                 'updated_at' => '2024-04-27 20:16:57',
+            ),
+            5 => 
+            array (
+                'id' => 6,
+                'code' => 'CT-006',
+                'famille' => 'Logistique',
+                'sfamille' => 'Retard de livraison',
+                'class' => 'Logistique',
+                'impact' => '20%',
+                'created_at' => '2024-06-01 21:13:36',
+                'updated_at' => '2024-06-01 21:13:36',
             ),
         ));
         
