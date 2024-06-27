@@ -495,14 +495,14 @@ return [
     
     [   'header' => 'MENU REPORTING',
         'classes' => 'text-yellow text-bold text-center',
-        'can' => 'menu responsable'
+       
     ],
   
     [
         'text' => 'Rapport',
         'url' => 'rapport',
         'icon' => 'fas fa-fw fa-file-alt',
-        'can' => 'voir repport',
+       
     ],
     ],
 ];
